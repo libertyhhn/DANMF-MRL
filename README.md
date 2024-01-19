@@ -8,11 +8,11 @@ Comprehensive Multiview Representation Learning via Deep Autoencoder-Like Nonneg
 ### Citation
 If you find this algorithm useful in your research, please consider citing:
 
-@article{huang2023comprehensive,
-  title={Comprehensive multiview representation learning via deep autoencoder-like nonnegative matrix factorization},
-  author={Huang, Haonan and Zhou, Guoxu and Zhao, Qibin and He, Lifang and Xie, Shengli},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  doi={10.1109/TNNLS.2023.3304626},
-  year={2023},
-  publisher={IEEE}
-}
+      @article{huang2023comprehensive,
+        title={Comprehensive multiview representation learning via deep autoencoder-like nonnegative matrix factorization},
+        author={Huang, Haonan and Zhou, Guoxu and Zhao, Qibin and He, Lifang and Xie, Shengli},
+        journal={IEEE Transactions on Neural Networks and Learning Systems},
+        doi={10.1109/TNNLS.2023.3304626},
+        year={2023},
+        publisher={IEEE}
+      }
